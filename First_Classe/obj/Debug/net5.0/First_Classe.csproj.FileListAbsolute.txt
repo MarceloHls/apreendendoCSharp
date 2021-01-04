@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\bin\Debug\net5.0\First_Classe.exe
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\bin\Debug\net5.0\First_Classe.deps.json
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\bin\Debug\net5.0\First_Classe.runtimeconfig.json
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\bin\Debug\net5.0\First_Classe.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\bin\Debug\net5.0\First_Classe.dll
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\bin\Debug\net5.0\ref\First_Classe.dll
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\bin\Debug\net5.0\First_Classe.pdb
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\obj\Debug\net5.0\First_Classe.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\obj\Debug\net5.0\First_Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\obj\Debug\net5.0\First_Classe.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\obj\Debug\net5.0\First_Classe.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\obj\Debug\net5.0\First_Classe.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\obj\Debug\net5.0\First_Classe.dll
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\obj\Debug\net5.0\ref\First_Classe.dll
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\obj\Debug\net5.0\First_Classe.pdb
+C:\Users\Marcelo\Desktop\portifolio\First_Classe\obj\Debug\net5.0\First_Classe.genruntimeconfig.cache

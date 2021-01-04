@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\portifolio\Out\bin\Debug\net5.0\Out.exe
+C:\Users\Marcelo\Desktop\portifolio\Out\bin\Debug\net5.0\Out.deps.json
+C:\Users\Marcelo\Desktop\portifolio\Out\bin\Debug\net5.0\Out.runtimeconfig.json
+C:\Users\Marcelo\Desktop\portifolio\Out\bin\Debug\net5.0\Out.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\portifolio\Out\bin\Debug\net5.0\Out.dll
+C:\Users\Marcelo\Desktop\portifolio\Out\bin\Debug\net5.0\ref\Out.dll
+C:\Users\Marcelo\Desktop\portifolio\Out\bin\Debug\net5.0\Out.pdb
+C:\Users\Marcelo\Desktop\portifolio\Out\obj\Debug\net5.0\Out.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\portifolio\Out\obj\Debug\net5.0\Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\portifolio\Out\obj\Debug\net5.0\Out.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\Out\obj\Debug\net5.0\Out.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\portifolio\Out\obj\Debug\net5.0\Out.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\Out\obj\Debug\net5.0\Out.dll
+C:\Users\Marcelo\Desktop\portifolio\Out\obj\Debug\net5.0\ref\Out.dll
+C:\Users\Marcelo\Desktop\portifolio\Out\obj\Debug\net5.0\Out.pdb
+C:\Users\Marcelo\Desktop\portifolio\Out\obj\Debug\net5.0\Out.genruntimeconfig.cache

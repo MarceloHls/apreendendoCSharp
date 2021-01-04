@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\bin\Debug\net5.0\contrutorDestrutor.exe
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\bin\Debug\net5.0\contrutorDestrutor.deps.json
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\bin\Debug\net5.0\contrutorDestrutor.runtimeconfig.json
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\bin\Debug\net5.0\contrutorDestrutor.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\bin\Debug\net5.0\contrutorDestrutor.dll
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\bin\Debug\net5.0\ref\contrutorDestrutor.dll
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\bin\Debug\net5.0\contrutorDestrutor.pdb
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\obj\Debug\net5.0\contrutorDestrutor.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\obj\Debug\net5.0\contrutorDestrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\obj\Debug\net5.0\contrutorDestrutor.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\obj\Debug\net5.0\contrutorDestrutor.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\obj\Debug\net5.0\contrutorDestrutor.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\obj\Debug\net5.0\contrutorDestrutor.dll
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\obj\Debug\net5.0\ref\contrutorDestrutor.dll
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\obj\Debug\net5.0\contrutorDestrutor.pdb
+C:\Users\Marcelo\Desktop\portifolio\contrutorDestrutor\obj\Debug\net5.0\contrutorDestrutor.genruntimeconfig.cache

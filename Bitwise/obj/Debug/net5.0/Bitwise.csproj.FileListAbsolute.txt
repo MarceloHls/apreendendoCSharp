@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\bin\Debug\net5.0\Bitwise.exe
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\bin\Debug\net5.0\Bitwise.deps.json
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\bin\Debug\net5.0\Bitwise.runtimeconfig.json
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\bin\Debug\net5.0\Bitwise.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\bin\Debug\net5.0\Bitwise.dll
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\bin\Debug\net5.0\ref\Bitwise.dll
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\bin\Debug\net5.0\Bitwise.pdb
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\obj\Debug\net5.0\Bitwise.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\obj\Debug\net5.0\Bitwise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\obj\Debug\net5.0\Bitwise.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\obj\Debug\net5.0\Bitwise.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\obj\Debug\net5.0\Bitwise.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\obj\Debug\net5.0\Bitwise.dll
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\obj\Debug\net5.0\ref\Bitwise.dll
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\obj\Debug\net5.0\Bitwise.pdb
+C:\Users\Marcelo\Desktop\portifolio\Bitwise\obj\Debug\net5.0\Bitwise.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\bin\Debug\net5.0\sobrecargaConstrutor.exe
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\bin\Debug\net5.0\sobrecargaConstrutor.deps.json
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\bin\Debug\net5.0\sobrecargaConstrutor.runtimeconfig.json
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\bin\Debug\net5.0\sobrecargaConstrutor.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\bin\Debug\net5.0\sobrecargaConstrutor.dll
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\bin\Debug\net5.0\ref\sobrecargaConstrutor.dll
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\bin\Debug\net5.0\sobrecargaConstrutor.pdb
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\obj\Debug\net5.0\sobrecargaConstrutor.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\obj\Debug\net5.0\sobrecargaConstrutor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\obj\Debug\net5.0\sobrecargaConstrutor.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\obj\Debug\net5.0\sobrecargaConstrutor.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\obj\Debug\net5.0\sobrecargaConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\obj\Debug\net5.0\sobrecargaConstrutor.dll
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\obj\Debug\net5.0\ref\sobrecargaConstrutor.dll
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\obj\Debug\net5.0\sobrecargaConstrutor.pdb
+C:\Users\Marcelo\Desktop\portifolio\sobrecargaConstrutor\obj\Debug\net5.0\sobrecargaConstrutor.genruntimeconfig.cache
