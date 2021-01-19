@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\bin\Debug\net5.0\Indexador.exe
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\bin\Debug\net5.0\Indexador.deps.json
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\bin\Debug\net5.0\Indexador.runtimeconfig.json
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\bin\Debug\net5.0\Indexador.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\bin\Debug\net5.0\Indexador.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\bin\Debug\net5.0\ref\Indexador.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\bin\Debug\net5.0\Indexador.pdb
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\obj\Debug\net5.0\Indexador.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\obj\Debug\net5.0\Indexador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\obj\Debug\net5.0\Indexador.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\obj\Debug\net5.0\Indexador.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\obj\Debug\net5.0\Indexador.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\obj\Debug\net5.0\Indexador.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\obj\Debug\net5.0\ref\Indexador.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\obj\Debug\net5.0\Indexador.pdb
+C:\Users\Marcelo\Desktop\portifolio\c#\Indexador\obj\Debug\net5.0\Indexador.genruntimeconfig.cache

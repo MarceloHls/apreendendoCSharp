@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\portifolio\c#\private\bin\Debug\net5.0\private.exe
+C:\Users\Marcelo\Desktop\portifolio\c#\private\bin\Debug\net5.0\private.deps.json
+C:\Users\Marcelo\Desktop\portifolio\c#\private\bin\Debug\net5.0\private.runtimeconfig.json
+C:\Users\Marcelo\Desktop\portifolio\c#\private\bin\Debug\net5.0\private.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\portifolio\c#\private\bin\Debug\net5.0\private.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\private\bin\Debug\net5.0\ref\private.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\private\bin\Debug\net5.0\private.pdb
+C:\Users\Marcelo\Desktop\portifolio\c#\private\obj\Debug\net5.0\private.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\portifolio\c#\private\obj\Debug\net5.0\private.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\portifolio\c#\private\obj\Debug\net5.0\private.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\c#\private\obj\Debug\net5.0\private.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\portifolio\c#\private\obj\Debug\net5.0\private.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\c#\private\obj\Debug\net5.0\private.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\private\obj\Debug\net5.0\ref\private.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\private\obj\Debug\net5.0\private.pdb
+C:\Users\Marcelo\Desktop\portifolio\c#\private\obj\Debug\net5.0\private.genruntimeconfig.cache

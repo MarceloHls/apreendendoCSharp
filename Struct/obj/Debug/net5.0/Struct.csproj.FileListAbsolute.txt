@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\bin\Debug\net5.0\Struct.exe
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\bin\Debug\net5.0\Struct.deps.json
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\bin\Debug\net5.0\Struct.runtimeconfig.json
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\bin\Debug\net5.0\Struct.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\bin\Debug\net5.0\Struct.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\bin\Debug\net5.0\ref\Struct.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\bin\Debug\net5.0\Struct.pdb
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\obj\Debug\net5.0\Struct.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\obj\Debug\net5.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\obj\Debug\net5.0\Struct.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\obj\Debug\net5.0\Struct.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\obj\Debug\net5.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\obj\Debug\net5.0\Struct.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\obj\Debug\net5.0\ref\Struct.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\obj\Debug\net5.0\Struct.pdb
+C:\Users\Marcelo\Desktop\portifolio\c#\Struct\obj\Debug\net5.0\Struct.genruntimeconfig.cache

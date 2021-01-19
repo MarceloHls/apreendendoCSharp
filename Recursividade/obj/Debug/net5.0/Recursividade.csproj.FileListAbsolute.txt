@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\bin\Debug\net5.0\Recursividade.exe
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\bin\Debug\net5.0\Recursividade.deps.json
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\bin\Debug\net5.0\Recursividade.runtimeconfig.json
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\bin\Debug\net5.0\Recursividade.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\bin\Debug\net5.0\Recursividade.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\bin\Debug\net5.0\ref\Recursividade.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\bin\Debug\net5.0\Recursividade.pdb
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\obj\Debug\net5.0\Recursividade.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\obj\Debug\net5.0\Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\obj\Debug\net5.0\Recursividade.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\obj\Debug\net5.0\Recursividade.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\obj\Debug\net5.0\Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\obj\Debug\net5.0\Recursividade.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\obj\Debug\net5.0\ref\Recursividade.dll
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\obj\Debug\net5.0\Recursividade.pdb
+C:\Users\Marcelo\Desktop\portifolio\c#\Recursividade\obj\Debug\net5.0\Recursividade.genruntimeconfig.cache
